@@ -5,7 +5,7 @@ import viaggi.*;
 public class Ver20150408_A {
 
 	public static void main(String[] args) throws Exception {
-		Avventura a = new Avventura("a1", "Un pacchetto di avventura", 5);
+		Avventura a = new Avventura("a1", "Un pacchetto di avventura", 5, 10);
 
 		Cliente c = new Cliente("Ciccio", "Formaggio", "ciccio@formaggio.com");
 		

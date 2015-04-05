@@ -2,7 +2,7 @@ package viaggi;
 
 import java.util.*;
 
-abstract public class Pacchetto {
+public class Pacchetto {
 	private String ID;
 	private String descrizione;
 	private int postiTotali;
